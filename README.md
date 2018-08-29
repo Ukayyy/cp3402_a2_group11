@@ -1,9 +1,9 @@
 # cp3402_a2_group11
 Assignment 2 in CP3402 for HealthPartners
 
-//Group Member:
+//Group Member: CAI WEI
 
-//Group Project
+//Group Project: Health Partners
 
 //Project Struture
 
